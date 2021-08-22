@@ -108,6 +108,7 @@ img.logo {
 #banner-image {
   display: none;
   border-radius: 5px;
+  object-fit: cover;
 }
 @keyframes swipe {
   from {
